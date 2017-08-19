@@ -1,0 +1,25 @@
+.team-name {
+	font-size: 1.2rem;
+	background-color: aqua;
+}
+
+.team-lists {
+	display: flex;
+	flex-direction: row;
+}
+
+.team-list {
+	display: flex;
+	flex-direction: column;
+	padding: 5px 12px;
+}
+
+.player {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.player-name {
+	margin: 0 2px;
+}
