@@ -63,6 +63,7 @@ function createPlayerElement(player) {
 }
 
 function resetPlayerPickedCounts() {
+	// I know I know, not a get request... TODO
 	httpGetAsync(baseTeamApiUrl + 'reset_data');
 	clearTeamLists();
 	populateTeamLists();

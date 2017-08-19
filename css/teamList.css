@@ -23,3 +23,7 @@
 .player-name {
 	margin: 0 2px;
 }
+
+[hidden] {
+	display: none;
+}
