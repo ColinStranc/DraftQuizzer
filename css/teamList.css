@@ -20,6 +20,19 @@
 	justify-content: space-between;
 }
 
+.player {
+	border-top: 1px;
+	border-bottom: 1px;
+}
+
+.player.even-row {
+	background-color: pink;
+}
+
+.player.odd-row {
+	background-color: orange;
+}
+
 .player-name {
 	margin: 0 2px;
 }

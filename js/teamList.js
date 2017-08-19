@@ -22,13 +22,30 @@ function addTeam(teamLists, team) {
 	var teamList = document.createElement('div');
 	teamList.className += ' team-list';
 
+	var sumGuesses = getGuessSum(team);
+
 	teamList.appendChild(createTeamNameElement(team.name));
 
-	for (var i = 0; i < team.players.length; i++) {
-		teamList.appendChild(createPlayerElement(team.players[i]));
+	var sortedPlayers = team.players.sort((p1, p2) => {
+		if (p2.picked !== p1.picked) {
+			return p2.picked - p1.picked;
+		}
+		return p2.lastName < p1.lastName ? 1 : -1;
+	});
+
+	for (var i = 0; i < sortedPlayers.length; i++) {
+		teamList.appendChild(createPlayerElement(sortedPlayers[i], sumGuesses, i%2===0));
 	}
 
 	teamLists.appendChild(teamList);
+}
+
+function getGuessSum(team) {
+	var sum = 0;
+	for (var i = 0; i < team.players.length; i++) {
+		sum += team.players[i].picked;
+	}
+	return sum;
 }
 
 function createTeamNameElement(teamName) {
@@ -38,10 +55,14 @@ function createTeamNameElement(teamName) {
 	return teamDiv;
 }
 
-function createPlayerElement(player) {
+function createPlayerElement(player, sumGuesses, isEven) {
+	var pickPercent = sumGuesses === 0 ? 0 : Math.floor(player.picked/sumGuesses*100);
+
 	var playerDiv = document.createElement('div');
 	playerDiv.className += ' player';
 	playerDiv.className += ' ' + player.position;
+	var t = isEven ? ' even-row' : ' odd-row';
+	playerDiv.className += t;
 
 	var positionDiv = document.createElement('div');
 	positionDiv.className += ' player-position';
@@ -52,8 +73,8 @@ function createPlayerElement(player) {
 	nameDiv.appendChild(document.createTextNode(player.firstName + ' ' + player.lastName));
 
 	var pickedDiv = document.createElement('div');
-	pickedDiv.className += ' picked-number';
-	pickedDiv.appendChild(document.createTextNode(player.picked));
+	pickedDiv.className += ' picked-percent';
+	pickedDiv.appendChild(document.createTextNode(pickPercent + '%'));
 
 	playerDiv.appendChild(positionDiv);
 	playerDiv.appendChild(nameDiv);

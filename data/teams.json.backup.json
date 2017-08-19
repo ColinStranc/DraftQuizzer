@@ -1,280 +1,1136 @@
-{
-	"teams": [
-		{
-			"name": "Prince Albert Predators",
-			"players":
-			[
-				{
-					"firstName": "Mark",
-					"lastName": "Scheifele",
-					"position": "F",
-					"picked": 5
-				},
-				{
-					"firstName": "Nikita",
-					"lastName": "Kucherov",
-					"position": "F",
-					"picked": 0
-				},
-				{
-					"firstName": "Michael",
-					"lastName": "Cammalleri",
-					"position": "F",
-					"picked": 3
-				},
-				{
-					"firstName": "Aleksander",
-					"lastName": "Barkov",
-					"position": "F",
-					"picked": 0
-				},
-				{
-					"firstName": "Chris",
-					"lastName": "Kreider",
-					"position": "F",
-					"picked": 0
-				},
-				{
-					"firstName": "Andre",
-					"lastName": "Burakovsky",
-					"position": "F",
-					"picked": 0
-				},
-				{
-					"firstName": "Sean",
-					"lastName": "Monahan",
-					"position": "F",
-					"picked": 0
-				},
-				{
-					"firstName": "Justin",
-					"lastName": "Williams",
-					"position": "F",
-					"picked": 0
-				},
-				{
-					"firstName": "Colin",
-					"lastName": "Wilson",
-					"position": "F",
-					"picked": 0
-				},
-				{
-					"firstName": "Michael",
-					"lastName": "Grabner",
-					"position": "F",
-					"picked": 0
-				},
-				{
-					"firstName": "Oscar",
-					"lastName": "Lindberg",
-					"position": "F",
-					"picked": 0
-				},
-				{
-					"firstName": "Matt",
-					"lastName": "Calvert",
-					"position": "F",
-					"picked": 0
-				},
-				{
-					"firstName": "Anton",
-					"lastName": "Stralman",
-					"position": "D",
-					"picked": 0
-				},
-				{
-					"firstName": "Niklas",
-					"lastName": "Kronwall",
-					"position": "D",
-					"picked": 0
-				},
-				{
-					"firstName": "Alexander",
-					"lastName": "Edler",
-					"position": "D",
-					"picked": 0
-				},
-				{
-					"firstName": "Matthew",
-					"lastName": "Dumba",
-					"position": "D",
-					"picked": 0
-				},
-				{
-					"firstName": "Mark",
-					"lastName": "Streit",
-					"position": "D",
-					"picked": 0
-				},
-				{
-					"firstName": "Brandon",
-					"lastName": "Carlo",
-					"position": "D",
-					"picked": 0
-				},
-				{
-					"firstName": "Craig",
-					"lastName": "Anderson",
-					"position": "G",
-					"picked": 0
-				},
-				{
-					"firstName": "Antti",
-					"lastName": "Raanta",
-					"position": "G",
-					"picked": 0
-				}
-			]
-		},
-		{
-			"name": "St Johns Pioneers",
-			"players":
-			[
-				{
-					"firstName": "Alex",
-					"lastName": "Ovechkin",
-					"position": "F",
-					"picked": 0
-				},
-				{
-					"firstName": "Marc Eduard",
-					"lastName": "Vlasic",
-					"position": "D",
-					"picked": 0
-				},
-				{
-					"firstName": "Marc Andre",
-					"lastName": "Fleury",
-					"position": "G",
-					"picked": 0
-				}
-			]
-		},
-		{
-			"name": "Wellington Wizards",
-			"players":
-			[
-				{
-					"firstName": "Patrice",
-					"lastName": "Bergeron",
-					"position": "F",
-					"picked": 0
-				},
-				{
-					"firstName": "Jaeden",
-					"lastName": "Schwartz",
-					"position": "F",
-					"picked": 0
-				},
-				{
-					"firstName": "Joe",
-					"lastName": "Pavelski",
-					"position": "F",
-					"picked": 0
-				},
-				{
-					"firstName": "Mika",
-					"lastName": "Zibanejad",
-					"position": "F",
-					"picked": 0
-				},
-				{
-					"firstName": "Patrick",
-					"lastName": "Sharp",
-					"position": "F",
-					"picked": 0
-				},
-				{
-					"firstName": "Michael",
-					"lastName": "Frolik",
-					"position": "F",
-					"picked": 0
-				},
-				{
-					"firstName": "Sam",
-					"lastName": "Reinhart",
-					"position": "F",
-					"picked": 0
-				},
-				{
-					"firstName": "Alexander",
-					"lastName": "Wennberg",
-					"position": "F",
-					"picked": 0
-				},
-				{
-					"firstName": "Alex",
-					"lastName": "Killorn",
-					"position": "F",
-					"picked": 0
-				},
-				{
-					"firstName": "Andrew",
-					"lastName": "Cogliano",
-					"position": "F",
-					"picked": 0
-				},
-				{
-					"firstName": "Kyle",
-					"lastName": "Brodziak",
-					"position": "F",
-					"picked": 0
-				},
-				{
-					"firstName": "Lee",
-					"lastName": "Stempniak",
-					"position": "F",
-					"picked": 0
-				},
-				{
-					"firstName": "Roman",
-					"lastName": "Josi",
-					"position": "D",
-					"picked": 0
-				},
-				{
-					"firstName": "Justin",
-					"lastName": "Braun",
-					"position": "D",
-					"picked": 0
-				},
-				{
-					"firstName": "Johnny",
-					"lastName": "Oduya",
-					"position": "D",
-					"picked": 0
-				},
-				{
-					"firstName": "Radko",
-					"lastName": "Gudas",
-					"position": "D",
-					"picked": 0
-				},
-				{
-					"firstName": "Dan",
-					"lastName": "Hamhuis",
-					"position": "D",
-					"picked": 0
-				},
-				{
-					"firstName": "Cody",
-					"lastName": "Ceci",
-					"position": "D",
-					"picked": 0
-				},
-				{
-					"firstName": "Andrei",
-					"lastName": "Vasilevski",
-					"position": "G",
-					"picked": 0
-				},
-				{
-					"firstName": "Jonas",
-					"lastName": "Korpisalo",
-					"position": "G",
-					"picked": 0
-				}
-			]
-		}
-	]
-}
+[
+	{
+		"name": "Prince Albert Predators",
+		"players":
+		[
+			{
+				"firstName": "Mark",
+				"lastName": "Scheifele",
+				"position": "F",
+				"picked": 5
+			},
+			{
+				"firstName": "Nikita",
+				"lastName": "Kucherov",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Michael",
+				"lastName": "Cammalleri",
+				"position": "F",
+				"picked": 3
+			},
+			{
+				"firstName": "Aleksander",
+				"lastName": "Barkov",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Chris",
+				"lastName": "Kreider",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Andre",
+				"lastName": "Burakovsky",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Sean",
+				"lastName": "Monahan",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Justin",
+				"lastName": "Williams",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Colin",
+				"lastName": "Wilson",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Michael",
+				"lastName": "Grabner",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Oscar",
+				"lastName": "Lindberg",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Matt",
+				"lastName": "Calvert",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Anton",
+				"lastName": "Stralman",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Niklas",
+				"lastName": "Kronwall",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Alexander",
+				"lastName": "Edler",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Matthew",
+				"lastName": "Dumba",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Mark",
+				"lastName": "Streit",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Brandon",
+				"lastName": "Carlo",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Craig",
+				"lastName": "Anderson",
+				"position": "G",
+				"picked": 0
+			},
+			{
+				"firstName": "Antti",
+				"lastName": "Raanta",
+				"position": "G",
+				"picked": 0
+			}
+		]
+	},
+	{
+		"name": "St Johns Pioneers",
+		"players":
+		[
+			{
+				"firstName": "Alex",
+				"lastName": "Ovechkin",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Auston",
+				"lastName": "Matthews",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Tyler",
+				"lastName": "Toffoli",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Boone",
+				"lastName": "Jenner",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Tomas",
+				"lastName": "Hertl",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Marcus",
+				"lastName": "Johansson",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Carl",
+				"lastName": "Hagelin",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Martin",
+				"lastName": "Hanzal",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Kevin",
+				"lastName": "Hayes",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Patrick",
+				"lastName": "Eaves",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Colin",
+				"lastName": "White",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Scott",
+				"lastName": "Hartnell",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Marc Eduard",
+				"lastName": "Vlasic",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Chris",
+				"lastName": "Tanev",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Brent",
+				"lastName": "Seabrook",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Jay",
+				"lastName": "Bouwmeester",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Jacob",
+				"lastName": "Slavin",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Brett",
+				"lastName": "Pesce",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Marc Andre",
+				"lastName": "Fleury",
+				"position": "G",
+				"picked": 0
+			},
+			{
+				"firstName": "Jacob",
+				"lastName": "Markstrom",
+				"position": "G",
+				"picked": 0
+			}
+		]
+	},
+	{
+		"name": "Wellington Wizards",
+		"players":
+		[
+			{
+				"firstName": "Patrice",
+				"lastName": "Bergeron",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Jaeden",
+				"lastName": "Schwartz",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Joe",
+				"lastName": "Pavelski",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Mika",
+				"lastName": "Zibanejad",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Patrick",
+				"lastName": "Sharp",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Michael",
+				"lastName": "Frolik",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Sam",
+				"lastName": "Reinhart",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Alexander",
+				"lastName": "Wennberg",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Alex",
+				"lastName": "Killorn",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Andrew",
+				"lastName": "Cogliano",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Kyle",
+				"lastName": "Brodziak",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Lee",
+				"lastName": "Stempniak",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Roman",
+				"lastName": "Josi",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Justin",
+				"lastName": "Braun",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Johnny",
+				"lastName": "Oduya",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Radko",
+				"lastName": "Gudas",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Dan",
+				"lastName": "Hamhuis",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Cody",
+				"lastName": "Ceci",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Andrei",
+				"lastName": "Vasilevski",
+				"position": "G",
+				"picked": 0
+			},
+			{
+				"firstName": "Jonas",
+				"lastName": "Korpisalo",
+				"position": "G",
+				"picked": 0
+			}
+		]
+	},
+	{
+		"name": "Oakville Ice Tigers",
+		"players":
+		[
+			{
+				"firstName": "Connor",
+				"lastName": "Mcdavid",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Jonathan",
+				"lastName": "Huberdeau",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Bobby",
+				"lastName": "Ryan",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Patrik",
+				"lastName": "Hornqvist",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Henrik",
+				"lastName": "Zetterberg",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Ondrej",
+				"lastName": "Palat",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Sam",
+				"lastName": "Gagner",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Derek",
+				"lastName": "Stepan",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Radim",
+				"lastName": "Vrbata",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Mikael",
+				"lastName": "Grigerenko",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Nick",
+				"lastName": "Dowd",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Michael",
+				"lastName": "Raffl",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Mark",
+				"lastName": "Giordano",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Justin",
+				"lastName": "Faulk",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Trevor",
+				"lastName": "Daley",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Zach",
+				"lastName": "Bogosian",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Thomas",
+				"lastName": "Hickey",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Justin",
+				"lastName": "Schultz",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Jonathan",
+				"lastName": "Quick",
+				"position": "G",
+				"picked": 0
+			},
+			{
+				"firstName": "Scott",
+				"lastName": "Darling",
+				"position": "G",
+				"picked": 0
+			}
+		]
+	},
+	{
+		"name": "Manitoba Vikings",
+		"players":
+		[
+			{
+				"firstName": "Evgeny",
+				"lastName": "Kuznetsov",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Jakob",
+				"lastName": "Voracek",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Thomas",
+				"lastName": "Vanek",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Viktor",
+				"lastName": "Arviddson",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Artem",
+				"lastName": "Anisimov",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Wayne",
+				"lastName": "Simmonds",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Derek",
+				"lastName": "Brassard",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Jannik",
+				"lastName": "Hansen",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Thomas",
+				"lastName": "Fleischmann",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Brendan",
+				"lastName": "Gallagher",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Pavel",
+				"lastName": "Zacha",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Jonas",
+				"lastName": "Donskoi",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Jack",
+				"lastName": "Johnson",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Kevin",
+				"lastName": "Shattenkirk",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Seth",
+				"lastName": "Jones",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Jonas",
+				"lastName": "Brodin",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Matthias",
+				"lastName": "Ekholm",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Jared",
+				"lastName": "Spurgeon",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Frederik",
+				"lastName": "Andersen",
+				"position": "G",
+				"picked": 0
+			},
+			{
+				"firstName": "Thomas",
+				"lastName": "Greiss",
+				"position": "G",
+				"picked": 0
+			}
+		]
+	},
+	{
+		"name": "Cambridge Knights",
+		"players":
+		[
+			{
+				"firstName": "Bryan",
+				"lastName": "Little",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Blake",
+				"lastName": "Wheeler",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Jeff",
+				"lastName": "Skinner",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Viktor",
+				"lastName": "Rask",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Jacob",
+				"lastName": "Silfverberg",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Clark",
+				"lastName": "Macarthur",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Nick",
+				"lastName": "Bonino",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Patrick",
+				"lastName": "Berglund",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Vladimir",
+				"lastName": "Sobotka",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Matt",
+				"lastName": "Nieto",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Zemgus",
+				"lastName": "Girgensons",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Marko",
+				"lastName": "Dano",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Jake",
+				"lastName": "Muzzin",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "John",
+				"lastName": "Klingberg",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Shayne",
+				"lastName": "Gostisbehere",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Jacob",
+				"lastName": "Larsson",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Michael",
+				"lastName": "Matheson",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Kevin",
+				"lastName": "Klein",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Cory",
+				"lastName": "Schneider",
+				"position": "G",
+				"picked": 0
+			},
+			{
+				"firstName": "Petr",
+				"lastName": "Mrazek",
+				"position": "G",
+				"picked": 0
+			}
+		]
+	},
+	{
+		"name": "Burnaby Senators",
+		"players":
+		[
+			{
+				"firstName": "Kyle",
+				"lastName": "Turris",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Nikolaj",
+				"lastName": "Ehlers",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Zach",
+				"lastName": "Parise",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Cam",
+				"lastName": "Atkinson",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Leon",
+				"lastName": "Draisaitl",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Brandon",
+				"lastName": "Saad",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Ryan",
+				"lastName": "Kesler",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Joel",
+				"lastName": "Ward",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Rickard",
+				"lastName": "Rakell",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Erik",
+				"lastName": "Haula",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Blake",
+				"lastName": "Comeau",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Vladimir",
+				"lastName": "Namestnikov",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "PK",
+				"lastName": "Subban",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "TJ",
+				"lastName": "Brodie",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Brian",
+				"lastName": "Campbell",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Sami",
+				"lastName": "Vatanen",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Mark",
+				"lastName": "Pysyk",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Dmitry",
+				"lastName": "Orlov",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Matt",
+				"lastName": "Murray",
+				"position": "G",
+				"picked": 0
+			},
+			{
+				"firstName": "Michael",
+				"lastName": "Neuvirth",
+				"position": "G",
+				"picked": 0
+			}
+		]
+	},
+	{
+		"name": "Ajax Aces",
+		"players":
+		[
+			{
+				"firstName": "Logan",
+				"lastName": "Couture",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Kyle",
+				"lastName": "Okposo",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Mikael",
+				"lastName": "Granlund",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Valteri",
+				"lastName": "Filpulla",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Tomas",
+				"lastName": "Tatar",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "James",
+				"lastName": "Van Riemsdyk",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Josh",
+				"lastName": "Bailey",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Mark",
+				"lastName": "Stone",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Tommy",
+				"lastName": "Wingels",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Antoine",
+				"lastName": "Vermette",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Dale",
+				"lastName": "Weise",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Trevor",
+				"lastName": "Lewis",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Oliver",
+				"lastName": "Ekman Larsson",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Rasmus",
+				"lastName": "Ristolainen",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Michael",
+				"lastName": "Stone",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Cam",
+				"lastName": "Fowler",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Olli",
+				"lastName": "Maatta",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Alex",
+				"lastName": "Petrovic",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Martin",
+				"lastName": "Jones",
+				"position": "G",
+				"picked": 0
+			},
+			{
+				"firstName": "Brian",
+				"lastName": "Elliott",
+				"position": "G",
+				"picked": 0
+			}
+		]
+	},
+	{
+		"name": "Abbotsford Wildcats",
+		"players":
+		[
+			{
+				"firstName": "Paul",
+				"lastName": "Stastny",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Marian",
+				"lastName": "Hossa",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Gabriel",
+				"lastName": "Landeskog",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "David",
+				"lastName": "Pastrnak",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Jack",
+				"lastName": "Eichel",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "William",
+				"lastName": "Nylander",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Robby",
+				"lastName": "Fabbri",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Vincent",
+				"lastName": "Trocheck",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Frans",
+				"lastName": "Nielsen",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Auston",
+				"lastName": "Watson",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Brian",
+				"lastName": "Boyle",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Nick",
+				"lastName": "Bjugstad",
+				"position": "F",
+				"picked": 0
+			},
+			{
+				"firstName": "Duncan",
+				"lastName": "Keith",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Tyson",
+				"lastName": "Barrie",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Karl",
+				"lastName": "Alzner",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "David",
+				"lastName": "Savard",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Brian",
+				"lastName": "Dumoulin",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Matt",
+				"lastName": "Niskanen",
+				"position": "D",
+				"picked": 0
+			},
+			{
+				"firstName": "Tuukka",
+				"lastName": "Rask",
+				"position": "G",
+				"picked": 0
+			},
+			{
+				"firstName": "Jusse",
+				"lastName": "Saros",
+				"position": "G",
+				"picked": 0
+			}
+		]
+	}
+]

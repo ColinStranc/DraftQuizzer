@@ -114,7 +114,7 @@ function createQuestion(teamsString) {
 
 	questionInfo.guessedPlayers = [];
 
-	questionInfo.questionText = 'Name ' + questionInfo.answerCount + ' teammate(s) of ' + questionInfo.player.firstName + ' ' + questionInfo.player.lastName + '.';
+	questionInfo.questionText = 'Name ' + questionInfo.answerCount + ' teammate(s) of ' + questionInfo.player.firstName + ' ' + questionInfo.player.lastName + ' on the ' + questionInfo.team + '.';
 	return formulateQuestion();
 }
 
